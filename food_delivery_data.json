@@ -1,0 +1,83 @@
+{
+  "orders": {
+    "1748179583": {
+      "user_id": 961198180,
+      "username": "kosyackoff_vlad",
+      "full_name": "Косяков Владислав",
+      "cart": {
+        "pizza_1": 1
+      },
+      "phone": "+79056559888",
+      "address": "пушкина 129",
+      "status": "cancelled",
+      "message_ids": [
+        {
+          "chat_id": "-4773126233",
+          "message_id": 173
+        },
+        {
+          "chat_id": 961198180,
+          "message_id": 174
+        },
+        {
+          "chat_id": 961198180,
+          "message_id": 176
+        }
+      ],
+      "timestamp": 1748179583
+    },
+    "1748179657": {
+      "user_id": 961198180,
+      "username": "kosyackoff_vlad",
+      "full_name": "Косяков Владислав",
+      "cart": {
+        "burger_1": 1
+      },
+      "phone": "+79005556633",
+      "address": "пушкин 1234",
+      "status": "cancelled",
+      "message_ids": [
+        {
+          "chat_id": "-4773126233",
+          "message_id": 182
+        },
+        {
+          "chat_id": 961198180,
+          "message_id": 183
+        },
+        {
+          "chat_id": 961198180,
+          "message_id": 185
+        }
+      ],
+      "timestamp": 1748179657
+    },
+    "1748442952": {
+      "user_id": 961198180,
+      "username": "kosyackoff_vlad",
+      "full_name": "Косяков Владислав",
+      "cart": {
+        "pizza_1": 1
+      },
+      "phone": "+79005556699",
+      "address": "ул Маслова",
+      "status": "cancelled",
+      "message_ids": [
+        {
+          "chat_id": "-4773126233",
+          "message_id": 194
+        },
+        {
+          "chat_id": 961198180,
+          "message_id": 195
+        },
+        {
+          "chat_id": 961198180,
+          "message_id": 197
+        }
+      ],
+      "timestamp": 1748442952
+    }
+  },
+  "users": {}
+}
